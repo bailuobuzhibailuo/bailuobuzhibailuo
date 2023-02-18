@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://visitor-badge.glitch.me/badge?page_id=bailuobuzhibailuo.readme)
+![](http://antzuhl.cn:4000/get/@bailuobuzhibailuo.readme)
 # 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)]([https://steamcommunity.com/id/antzuhl](https://steamcommunity.com/profiles/76561198811403035/))
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
